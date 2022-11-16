@@ -11,7 +11,7 @@ require (
 	github.com/spf13/cobra v1.6.1
 	github.com/spf13/viper v1.14.0
 	github.com/stretchr/testify v1.8.1
-	github.com/tendermint/go-amino v0.14.1
+	github.com/tendermint/go-amino v0.16.0
 	github.com/tendermint/tendermint v0.31.0-dev0
 )
 
