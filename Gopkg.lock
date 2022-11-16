@@ -440,6 +440,30 @@
   revision = "8368d24ba045f26503eb745b624d930cbe214c79"
 
 [[projects]]
+  branch = "master"
+  digest = "1:3ea6dee3c8054125f1580983a3e67e73bee3680780de63beabed1149e1c8b2bb"
+  name = "github.com/pumpkinzomb/cosmos-ethereum-bridge"
+  packages = [
+    ".",
+    "cmd/ebrelayer/contract",
+    "cmd/ebrelayer/events",
+    "cmd/ebrelayer/relayer",
+    "cmd/ebrelayer/txs",
+    "x/ethbridge",
+    "x/ethbridge/client",
+    "x/ethbridge/client/cli",
+    "x/ethbridge/client/rest",
+    "x/ethbridge/common",
+    "x/ethbridge/querier",
+    "x/ethbridge/types",
+    "x/oracle",
+    "x/oracle/keeper",
+    "x/oracle/types",
+  ]
+  pruneopts = "UT"
+  revision = "098213b92fe2606254ec10127ecc71e0ff430946"
+
+[[projects]]
   digest = "1:ea0700160aca4ef099f4e06686a665a87691f4248dddd40796925eda2e46bd64"
   name = "github.com/rakyll/statik"
   packages = ["fs"]
@@ -835,6 +859,21 @@
     "github.com/ethereum/go-ethereum/ethclient",
     "github.com/golang/glog",
     "github.com/gorilla/mux",
+    "github.com/pumpkinzomb/cosmos-ethereum-bridge",
+    "github.com/pumpkinzomb/cosmos-ethereum-bridge/cmd/ebrelayer/contract",
+    "github.com/pumpkinzomb/cosmos-ethereum-bridge/cmd/ebrelayer/events",
+    "github.com/pumpkinzomb/cosmos-ethereum-bridge/cmd/ebrelayer/relayer",
+    "github.com/pumpkinzomb/cosmos-ethereum-bridge/cmd/ebrelayer/txs",
+    "github.com/pumpkinzomb/cosmos-ethereum-bridge/x/ethbridge",
+    "github.com/pumpkinzomb/cosmos-ethereum-bridge/x/ethbridge/client",
+    "github.com/pumpkinzomb/cosmos-ethereum-bridge/x/ethbridge/client/cli",
+    "github.com/pumpkinzomb/cosmos-ethereum-bridge/x/ethbridge/client/rest",
+    "github.com/pumpkinzomb/cosmos-ethereum-bridge/x/ethbridge/common",
+    "github.com/pumpkinzomb/cosmos-ethereum-bridge/x/ethbridge/querier",
+    "github.com/pumpkinzomb/cosmos-ethereum-bridge/x/ethbridge/types",
+    "github.com/pumpkinzomb/cosmos-ethereum-bridge/x/oracle",
+    "github.com/pumpkinzomb/cosmos-ethereum-bridge/x/oracle/keeper",
+    "github.com/pumpkinzomb/cosmos-ethereum-bridge/x/oracle/types",
     "github.com/spf13/cobra",
     "github.com/spf13/viper",
     "github.com/stretchr/testify/require",

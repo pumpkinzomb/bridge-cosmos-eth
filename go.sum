@@ -277,8 +277,8 @@ github.com/prometheus/procfs v0.0.0-20181204211112-1dc9a6cbc91a/go.mod h1:c3At6R
 github.com/prometheus/procfs v0.0.0-20190416084830-8368d24ba045 h1:Raos9GP+3BlCBicScEQ+SjTLpYYac34fZMoeqj9McSM=
 github.com/prometheus/procfs v0.0.0-20190416084830-8368d24ba045/go.mod h1:TjEm7ze935MbeOT/UhFTIMYKhuLP4wbCsTZCD3I8kEA=
 github.com/prometheus/tsdb v0.7.1 h1:YZcsG11NqnK4czYLrWd9mpEuAJIHVQLwdrleYfszMAA=
-github.com/pumpkinzomb/cosmos-ethereum-bridge v0.0.0-20221116023340-08e1d9d43e29 h1:HOsyadSTZGDe5wvQRHx5qnwiUH0TEwU1sTgIlKOFZWw=
-github.com/pumpkinzomb/cosmos-ethereum-bridge v0.0.0-20221116023340-08e1d9d43e29/go.mod h1:mPgs5HZPh84kgVSGFEL/IjrTY9o+SSYv5kUtPnWPV0k=
+github.com/pumpkinzomb/cosmos-ethereum-bridge v0.0.0-20221116051648-a9c14414af29 h1:xYSbsAgWwSmkNIxa2UTwPxFmTvDvIQ1hKArMJLk2Gws=
+github.com/pumpkinzomb/cosmos-ethereum-bridge v0.0.0-20221116051648-a9c14414af29/go.mod h1:mPgs5HZPh84kgVSGFEL/IjrTY9o+SSYv5kUtPnWPV0k=
 github.com/rakyll/statik v0.1.4 h1:zCS/YQCxfo/fQjCtGVGIyWGFnRbQ18Y55mhS3XPE+Oo=
 github.com/rakyll/statik v0.1.4/go.mod h1:OEi9wJV/fMUAGx1eNjq75DKDsJVuEv1U0oYdX6GX8Zs=
 github.com/rcrowley/go-metrics v0.0.0-20180503174638-e2704e165165 h1:nkcn14uNmFEuGCb2mBZbBb24RdNRL08b/wb+xBOYpuk=
@@ -320,8 +320,6 @@ github.com/stretchr/testify v1.8.1 h1:w7B6lhMri9wdJUVmEZPGGhZzrYTPvgJArz7wNPgYKs
 github.com/stretchr/testify v1.8.1/go.mod h1:w2LPCIKwWwSfY2zedu0+kehJoqGctiVI29o6fzry7u4=
 github.com/subosito/gotenv v1.4.1 h1:jyEFiXpy21Wm81FBN71l9VoMMV8H8jG+qIK3GCpY6Qs=
 github.com/subosito/gotenv v1.4.1/go.mod h1:ayKnFf/c6rvx/2iiLrJUk1e6plDbT3edrFNGqEflhK0=
-github.com/swishlabsco/cosmos-ethereum-bridge v0.0.0-20190605041336-7131e0159cbe h1:tirC08AT4NP/qhvOMt9rNiTHssFHJ/LyUUttXHR56to=
-github.com/swishlabsco/cosmos-ethereum-bridge v0.0.0-20190605041336-7131e0159cbe/go.mod h1:QnbMl/CnJeENP5clOwJyYWYP0p9BEUqGBcLMWLJo+U4=
 github.com/swishlabsco/crypto v0.0.0-20190531000330-76a94ff009f0 h1:L9AXS4P8ljK3SalNGwMImAm+C1lIsyhhIMWhhmLnDw0=
 github.com/swishlabsco/crypto v0.0.0-20190531000330-76a94ff009f0/go.mod h1:zgaYcbO149T0nsifOaR1simJ+PI98wJ30qRwud+NNEc=
 github.com/syndtr/goleveldb v1.0.1-0.20210819022825-2ae1ddf74ef7 h1:epCh84lMvA70Z7CTTCmYQn2CKbY8j86K7/FAIr141uY=

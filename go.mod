@@ -7,7 +7,7 @@ require (
 	github.com/ethereum/go-ethereum v1.10.26
 	github.com/golang/glog v1.0.0
 	github.com/gorilla/mux v1.8.0
-	github.com/pumpkinzomb/cosmos-ethereum-bridge v0.0.0-20221116023340-08e1d9d43e29
+	github.com/pumpkinzomb/cosmos-ethereum-bridge v0.0.0-20221116051648-a9c14414af29
 	github.com/spf13/cobra v1.6.1
 	github.com/spf13/viper v1.14.0
 	github.com/stretchr/testify v1.8.1
